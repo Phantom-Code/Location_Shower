@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338767193560",
+    "firebase_url": "https://locationshower-f8def.firebaseio.com",
+    "project_id": "locationshower-f8def",
+    "storage_bucket": "locationshower-f8def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338767193560:android:1db888d59927bada9a3ead",
+        "android_client_info": {
+          "package_name": "com.sourabh.loation_shower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338767193560-3f39d8vn8v40hr3u69f6it9p3ial3veb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourabh.loation_shower",
+            "certificate_hash": "a680a5a50c88a6e518e9de44d8d7351903bd6252"
+          }
+        },
+        {
+          "client_id": "338767193560-0pus9ikak6n8q7lt7fubcm49opgoptos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU39rbYUXSvtGVVo15Y1cH37xr_mca_pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338767193560-0pus9ikak6n8q7lt7fubcm49opgoptos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
